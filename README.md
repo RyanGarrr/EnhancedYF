@@ -1,2 +1,4 @@
 # YIIN
-YOLOv8 integrated improved network
+Enhanced YOLOv8 Framework for Precision
+Vehicle Detection in High-Resolution Remote
+Sensing Images
